@@ -95,7 +95,7 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 ![Visitor Count](https://profile-counter.glitch.me/harn1sh/count.svg)
   
   
-  <a href="https://www.instagram.com/_.harnish_/">
+ <!-- <a href="https://www.instagram.com/_.harnish_/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <!-- <a href="https://www.linkedin.com/in/harn1sh/">
