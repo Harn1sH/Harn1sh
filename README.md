@@ -98,8 +98,8 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
   <a href="https://www.instagram.com/_.harnish_/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/harn1sh/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<!-- <a href="https://www.linkedin.com/in/harn1sh/">
+  <img align="left" alt="Harnish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
