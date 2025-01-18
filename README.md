@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <h1>My Name is Harnish and I like 🍕</h1>
+  <!--<h1>My Name is Harnish and I like 🍕</h1> -->
   <br />
   <br />
 
@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ?si=iwS07o0sQsGYWKcAGyQnGA">
+<a href="https://open.spotify.com/playlist/5cERmh420WJHGZcxQo3KFj?si=e1c86d2186b348a4&pt=800d795d30c5639b37f44890fcd82550">
 <strong>Listen to cool music</strong>
 <br />
 <br />
@@ -43,10 +43,6 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-<a href="https://github.com/Harn1sH/Harn1sh/issues/"><img src="images/guestbook.svg"></a> 
-</div>
 
 
 <!-- /Guestbook -->
@@ -70,7 +66,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 ## This week I spent my time on:
 ```text
 JavaScript   13 hrs 24 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  85.26 %
@@ -78,7 +74,7 @@ Java   1 hr 6 mins           ▓▓░░░░░░░░░░░░░░░
 EJS          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-```
+```-->
 
 <!--END_SECTION:waka-->
 
@@ -88,8 +84,8 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />-->
 
 ![Visitor Count](https://profile-counter.glitch.me/harn1sh/count.svg)
   
@@ -103,10 +99,10 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
+<!-- "margin-right: whatever;" 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />-->
 
 </div>
