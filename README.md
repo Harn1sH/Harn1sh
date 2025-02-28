@@ -1,16 +1,16 @@
 <!-- "Hero" Header -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <!--<h1>My Name is Harnish and I like 🍕</h1> -->
-  <br />
+ <!--  <br />
   <br />
 
 </div>
 
 <!-- Social -->
-<table width="100%" align="center">
+<!-- <table width="100%" align="center">
 <tr>
 <td align="center">
 <a href="https://harn1sh.netlify.app/">
@@ -42,7 +42,7 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
 
 <!-- /Guestbook -->
